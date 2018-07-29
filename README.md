@@ -3,4 +3,4 @@
 
 # Screenshot
 
-![alt text](https://raw.githubusercontent.com/Pratyushx/Connect3/blob/master/connect3.PNG)
+![alt text](https://github.com/Pratyushx/Connect3/blob/master/connect3.PNG)
